@@ -23,13 +23,13 @@
 define('DB_NAME', 'bitnami_ugbc');
 
 /** MySQL database username */
-define('DB_USER', 'bn_ugbc');
+define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', '6d5d04aa40');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', '127.0.0.1:3306');
+define('DB_HOST', '');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
